@@ -1,0 +1,26 @@
+# Ignore the .env file
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore database files
+*.sqlite3
+
+# Ignore static and media files
+static/
+media/
+
+# Ignore other unnecessary files
+*.log
+*.pot
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+.venv/
+.idea/
+.vscode/
+.DS_Store
